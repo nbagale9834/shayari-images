@@ -1,0 +1,7 @@
+{
+  "images": [
+    "https://raw.githubusercontent.com/yourrepo/image1.jpg",
+    "https://raw.githubusercontent.com/yourrepo/image2.jpg"
+  ],
+  "link": "https://your-updatable-link.com"
+}
